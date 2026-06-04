@@ -2,3 +2,4 @@ No NuvioTV vá em Ajustes/Layout/Streams e escaneie o QR ou digite o link, no si
 
 https://raw.githubusercontent.com/EltonR94/Badge-Nuvio/refs/heads/main/badges.json
 
+https://raw.githubusercontent.com/EltonR94/Badge-Nuvio/refs/heads/main/badges%20animados.json
